@@ -1,0 +1,4 @@
+selenium
+undetected-chromedriver
+requests
+bs4
